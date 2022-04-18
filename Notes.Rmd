@@ -1,0 +1,23 @@
+---
+title: "Notes - R for Data Science"
+author: "Jesse O."
+date: "18/04/2022"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+# Books
+Hands-On Programming with R - Garrett Grolemund
+A Layered Grammar of Graphics
+
+# Translate of messages
+Re-run the code.
+```{r}
+Sys.setenv(LANGUAGE = "en")
+```
+
+#dput()to recreate a dataset
+
